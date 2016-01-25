@@ -1,0 +1,141 @@
+Updates & Changes
+Version 4.0.5
+*Edited files
+style.css
+includes/lib/js_composer.zip
+css/main-stylesheet.css
+
+
+Updates & Changes
+Version 4.0.4
+*Edited files
+style.css
+includes/admin/functions/jquery-css-include.php
+includes/admin/functions/default-values.php
+includes/lib/js_composer.zip
+includes/lib/layersliderwp-5.1.1.installable.zip
+
+Version 4.0.3
+*Edited files
+style.css
+includes/admin/functions/general.php
+
+Version 4.0.2
+*Edited files
+style.css
+functions/other.php
+includes/loop/loop-end.php
+includes/loop/loop-start.php
+includes/admin/sidebar.php
+js/theme-scripts.js
+css/main-stylesheet.css
+
+Version 4.0.1
+*Edited files
+style.css
+functions.php
+template-menu-card.php
+template-menu-card-shop.php
+css/main-stylesheet.css
+
+
+Version 4.0.0
+ATTENTION!!! - MAJOR CHANGES
+New version 4.0 of this theme will reset all data, except wodrpess posts and menu cart posts. So please be careful and back up your information before updrading from 3.x to version 4.0
+
+Version 3.0.6
+*Edited files
+functions/upload-handler.php - if you have this file, please REMOVE it from your server!!!!!
+functions/bordeaux_menu.php
+functions/filters.php
+functions/init.php
+functions/jquery-css-include.php
+functions/nav.php
+functions/other.php
+functions/register.php
+functions/resize.php
+functions/thumbs.php
+js/admin/ajaxupload.js
+js/admin/options.js
+includes/theme_config.php
+
+Version 3.0.5
+*Edited files
+js/orange-themes-responsive.js
+
+
+Version 3.0.4
+*Edited files
+css/responsive
+
+Version 3.0.3
+
+*Edited files
+includes/theme_config.php
+
+
+
+Updates & Changes
+Version 3.0.2
+
+*Edited files
+includes/admin/buttons-formatting/custom-editor-style.css
+functions/other.php
+
+
+
+Version 3.0.1
+
+* edited files
+
+header.php
+
+
+
+
+=======================================
+Version 2.0 is available (Juni 13)
+
+Added new layer slider for homepage
+Added sidebar generator - unlimited sidebars and add new sidebar for each post or page
+Added shortcode insert buttons.
+---------------------------------------
+
+
+
+Version 1.3 is available (August 26)
+
+Menu cards improvements.
+Now you can order all categories and subcategories in the menu card, by just  dragging & droping them in the new wp-admin section - Bordeaux Menu Category Order
+Now you are able to order all items in menu card, just type the item number in the Attributes fiel by adding a new menu card post. If you don't see a Attributes box, click on "Screen options" and check Attributes. After that you will be able to order the items
+---------------------------------------
+
+Version 1.0.8 is available (August 10)
+
+Menu cards improvements now you can open a specific page in menu card - see more in demo.
+Opportunity to add a full day in reservation calendar.
+Updated timthumb.php  file.
+---------------------------------------
+
+Version 1.0.4 is available (August 5)
+	
+Updated timthumb.php  file.
+---------------------------------------
+
+
+Version 1.0.3 is available (July 21)
+
+Calendar day count bug fix.
+Google maps supports now Polish characters.
+Menu Card Improvement
+---------------------------------------
+
+Version 1.0.2 is available (July 19)
+
+Reservation Setting file bug fix.
+---------------------------------------
+
+Version 1.0.1 is available (July 18)
+
+Popular offering price display bug fix.
+---------------------------------------

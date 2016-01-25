@@ -1,0 +1,2032 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bordeaux\n"
+"POT-Creation-Date: 2014-02-04 13:08+0200\n"
+"PO-Revision-Date: 2014-02-04 13:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: Orange Themes <support@orange-themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:27 includes/single/page-title.php:13
+msgid "back to Homepage"
+msgstr ""
+
+#: 404.php:29 404.php:37
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:36
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:39
+msgid ""
+"Sorry, This page is wanted by the police so it ran<br/>away to Antarctica. "
+"If You see it, please let us know."
+msgstr ""
+
+#: 404.php:40
+msgid "Back to Homepage"
+msgstr ""
+
+#: 404.php:43 includes/home-blocks/block-1.php:90
+#: includes/home-blocks/block-1.php:98 includes/loop/loop-end.php:11
+msgid "go back to the top"
+msgstr ""
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:18 includes/widgets/widget-bordeaux-triple-box.php:100
+msgid "Comments"
+msgstr ""
+
+#: comments.php:41
+msgid "No Comments Yet!"
+msgstr ""
+
+#: comments.php:42
+msgid "You can be first to <a href=\"#respond\">comment this post!</a>"
+msgstr ""
+
+#: comments.php:52
+#, php-format
+msgid "Only <a href=\"%1$s\"> registered </a> users can comment."
+msgstr ""
+
+#: comments.php:60
+msgid "Comment"
+msgstr ""
+
+#: comments.php:60
+msgid "Your message.."
+msgstr ""
+
+#: comments.php:68
+msgid "Post a Comment"
+msgstr ""
+
+#: footer.php:81
+msgid "Designed by"
+msgstr ""
+
+#: footer.php:98 includes/_lightbox-gallery.php:3
+msgid "Close Window"
+msgstr ""
+
+#: footer.php:100
+msgid "Loading, Please Wait!"
+msgstr ""
+
+#: footer.php:101
+msgid "This may take a second or two."
+msgstr ""
+
+#: footer.php:102
+msgid "Loading"
+msgstr ""
+
+#: header.php:40
+#, php-format
+msgid "%s latest posts"
+msgstr ""
+
+#: header.php:41
+#, php-format
+msgid "%s latest comments"
+msgstr ""
+
+#: searchform.php:7
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:8
+msgid "search here"
+msgstr ""
+
+#: searchform.php:9
+msgid "Search"
+msgstr ""
+
+#: template-contact.php:22 includes/theme-config.php:1327
+#: includes/widgets/widget-bordeaux-aweber.php:153
+msgid "Success!"
+msgstr ""
+
+#: template-contact.php:31 template-contact.php:32 functions/filters.php:176
+msgid "Nickname"
+msgstr ""
+
+#: template-contact.php:36 template-contact.php:37
+#: template-reservations.php:174 template-reservations.php:175
+#: functions/bordeaux-menu.php:136 functions/filters.php:177
+#: includes/theme-config.php:1203
+msgid "E-mail"
+msgstr ""
+
+#: template-contact.php:37 includes/widgets/widget-bordeaux-aweber.php:179
+msgid "E-mail address"
+msgstr ""
+
+#: template-contact.php:41 template-contact.php:42
+msgid "Your message"
+msgstr ""
+
+#: template-contact.php:46
+msgid "Send us a message"
+msgstr ""
+
+#: template-contact.php:53 template-full-width.php:16
+#: template-reservations.php:198 includes/gallery-single-style-1.php:87
+#: includes/menu-single.php:72 includes/news-single.php:72
+#: includes/page-single.php:15 includes/page-woocommerce.php:9
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: template-gallery.php:48
+msgid "No galleries were found"
+msgstr ""
+
+#: template-menu-card-shop.php:185 template-menu-card.php:190
+msgid "You need to add at least one post in the menu card, you can do it"
+msgstr ""
+
+#: template-menu-card-shop.php:185 template-menu-card-shop.php:188
+#: template-menu-card.php:190 template-menu-card.php:193
+msgid "here"
+msgstr ""
+
+#: template-menu-card-shop.php:188 template-menu-card.php:193
+msgid ""
+"You need to add at least one category and one sub-category for the menu "
+"card, you can do it  "
+msgstr ""
+
+#: template-reservations.php:56 functions/bordeaux-menu.php:75
+msgid "Date"
+msgstr ""
+
+#: template-reservations.php:62
+msgid "Time"
+msgstr ""
+
+#: template-reservations.php:66
+msgid "Period"
+msgstr ""
+
+#: template-reservations.php:76 template-reservations.php:138
+msgid "Hour"
+msgstr ""
+
+#: template-reservations.php:129 template-reservations.php:149
+msgid "Minutes"
+msgstr ""
+
+#: template-reservations.php:159
+msgid "People Count"
+msgstr ""
+
+#: template-reservations.php:169 includes/theme-config.php:1200
+#: includes/widgets/widget-bordeaux-aweber.php:176
+msgid "Name"
+msgstr ""
+
+#: template-reservations.php:170
+msgid "Your Name"
+msgstr ""
+
+#: template-reservations.php:179 template-reservations.php:180
+msgid "Phone"
+msgstr ""
+
+#: template-reservations.php:184
+msgid "Notes"
+msgstr ""
+
+#: template-reservations.php:185
+msgid "Additional notes.."
+msgstr ""
+
+#: template-reservations.php:188
+msgid "Send Reservation"
+msgstr ""
+
+#: template-reservations.php:193
+msgid "Thanks!"
+msgstr ""
+
+#: template-reservations.php:194
+msgid "Your registration has been sent!"
+msgstr ""
+
+#: functions/ajax.php:395 functions/ajax.php:537
+msgid "New entry at"
+msgstr ""
+
+#: functions/ajax.php:412 functions/ajax.php:554 functions/ajax.php:708
+msgid "Message:"
+msgstr ""
+
+#: functions/ajax.php:417 functions/ajax.php:559 functions/ajax.php:710
+#: includes/theme-config.php:1293
+msgid "Name:"
+msgstr ""
+
+#: functions/ajax.php:420 includes/theme-config.php:1305
+msgid "People Count:"
+msgstr ""
+
+#: functions/ajax.php:423 functions/ajax.php:565
+#: includes/widgets/widget-bordeaux-contact.php:30
+msgid "Phone:"
+msgstr ""
+
+#: functions/ajax.php:426 functions/ajax.php:581 functions/ajax.php:711
+msgid "E-mail:"
+msgstr ""
+
+#: functions/ajax.php:429 includes/theme-config.php:1286
+msgid "Reservation Date:"
+msgstr ""
+
+#: functions/ajax.php:431 functions/ajax.php:583 functions/ajax.php:712
+msgid "IP Address:"
+msgstr ""
+
+#: functions/ajax.php:562
+msgid "Guest Count:"
+msgstr ""
+
+#: functions/ajax.php:568
+msgid "Events:"
+msgstr ""
+
+#: functions/ajax.php:695 includes/admin/reservations.php:96
+msgid "From"
+msgstr ""
+
+#: functions/ajax.php:695
+msgid "Contact Page"
+msgstr ""
+
+#: functions/bordeaux-menu.php:53
+msgid "Image Size"
+msgstr ""
+
+#: functions/bordeaux-menu.php:53
+msgid "Size:"
+msgstr ""
+
+#: functions/bordeaux-menu.php:54
+msgid "Show In Top Slider"
+msgstr ""
+
+#: functions/bordeaux-menu.php:54 functions/bordeaux-menu.php:55
+#: includes/admin/slider.php:43 includes/admin/slider.php:235
+msgid "Show:"
+msgstr ""
+
+#: functions/bordeaux-menu.php:55
+msgid "Popular Offering (Show In Homepage Block)"
+msgstr ""
+
+#: functions/bordeaux-menu.php:56
+msgid "Price"
+msgstr ""
+
+#: functions/bordeaux-menu.php:56
+msgid "Price:"
+msgstr ""
+
+#: functions/bordeaux-menu.php:59
+msgid "Subtitle"
+msgstr ""
+
+#: functions/bordeaux-menu.php:60
+msgid "Show Layer Slider"
+msgstr ""
+
+#: functions/bordeaux-menu.php:61
+msgid "Layer Slider"
+msgstr ""
+
+#: functions/bordeaux-menu.php:65
+msgid "Gallery Images"
+msgstr ""
+
+#: functions/bordeaux-menu.php:73
+msgid "Venue"
+msgstr ""
+
+#: functions/bordeaux-menu.php:74
+msgid "Address"
+msgstr ""
+
+#: functions/bordeaux-menu.php:76
+msgid "Venue Map"
+msgstr ""
+
+#: functions/bordeaux-menu.php:76
+msgid "Position:"
+msgstr ""
+
+#: functions/bordeaux-menu.php:78
+msgid "How long show held venue?"
+msgstr ""
+
+#: functions/bordeaux-menu.php:78
+msgid "Days:"
+msgstr ""
+
+#: functions/bordeaux-menu.php:79
+msgid "Items per page"
+msgstr ""
+
+#: functions/bordeaux-menu.php:79
+msgid "Count"
+msgstr ""
+
+#: functions/bordeaux-menu.php:84
+msgid "Notifications email"
+msgstr ""
+
+#: functions/bordeaux-menu.php:84
+#: includes/widgets/widget-bordeaux-contact.php:31
+msgid "Email:"
+msgstr ""
+
+#: functions/bordeaux-menu.php:86
+msgid "Calendar Description Title"
+msgstr ""
+
+#: functions/bordeaux-menu.php:86 functions/bordeaux-menu.php:89
+msgid "Title"
+msgstr ""
+
+#: functions/bordeaux-menu.php:87
+msgid "Calendar Description Text"
+msgstr ""
+
+#: functions/bordeaux-menu.php:87 functions/bordeaux-menu.php:90
+msgid "Text"
+msgstr ""
+
+#: functions/bordeaux-menu.php:89
+msgid "Form Description Title"
+msgstr ""
+
+#: functions/bordeaux-menu.php:90
+msgid "Form Description Text"
+msgstr ""
+
+#: functions/bordeaux-menu.php:98
+msgid "Show Share Buttons"
+msgstr ""
+
+#: functions/bordeaux-menu.php:105
+msgid "How long show held events?"
+msgstr ""
+
+#: functions/bordeaux-menu.php:127
+msgid "Show Menu Card/Shop Item slider"
+msgstr ""
+
+#: functions/bordeaux-menu.php:128
+msgid "Slider Type"
+msgstr ""
+
+#: functions/bordeaux-menu.php:136
+msgid "Contact form E-mail"
+msgstr ""
+
+#: functions/bordeaux-menu.php:141
+msgid "Gallery Style"
+msgstr ""
+
+#: functions/bordeaux-menu.php:147 functions/bordeaux-menu.php:148
+#: functions/bordeaux-menu.php:157 functions/other.php:55
+msgid "Footer Bar"
+msgstr ""
+
+#: functions/bordeaux-menu.php:312
+msgid "Off"
+msgstr ""
+
+#: functions/bordeaux-menu.php:353 includes/theme-config.php:340
+msgid "You didn't create a slider yet."
+msgstr ""
+
+#: functions/bordeaux-menu.php:622
+msgid ""
+"Left click on the map to add markers. Right click on the marker to remove it!"
+msgstr ""
+
+#: functions/bordeaux-menu.php:917
+msgid "Changes Saved."
+msgstr ""
+
+#: functions/bordeaux-menu.php:923
+msgid "Bordeaux Menu Category Order"
+msgstr ""
+
+#: functions/bordeaux-menu.php:928 functions/bordeaux-menu.php:931
+msgid "Just drag &amp; drop them"
+msgstr ""
+
+#: functions/bordeaux-menu.php:930
+msgid "Top level categories"
+msgstr ""
+
+#: functions/bordeaux-menu.php:943
+msgid "Order subcategories &raquo;"
+msgstr ""
+
+#: functions/bordeaux-menu.php:952 includes/admin/reservations.php:332
+#: includes/admin/slider.php:209 includes/admin/slider.php:245
+msgid "Save Changes"
+msgstr ""
+
+#: functions/bordeaux-menu.php:1049
+msgid "Reservations "
+msgstr ""
+
+#: functions/drag-drop.php:13
+msgid "Homepage Blocks:"
+msgstr ""
+
+#: functions/drag-drop.php:17
+msgid "3 Info Blocks"
+msgstr ""
+
+#: functions/drag-drop.php:20
+msgid "Block 1:"
+msgstr ""
+
+#: functions/drag-drop.php:21 functions/drag-drop.php:27
+#: functions/drag-drop.php:33 includes/admin/slider.php:74
+#: includes/admin/slider.php:126 includes/admin/slider.php:178
+msgid "Image:"
+msgstr ""
+
+#: functions/drag-drop.php:22 functions/drag-drop.php:28
+#: functions/drag-drop.php:34 functions/drag-drop.php:43
+#: functions/drag-drop.php:63 functions/drag-drop.php:80
+#: includes/widgets/widget-ad300x250.php:114
+#: includes/widgets/widget-bordeaux-aweber.php:65
+#: includes/widgets/widget-bordeaux-gallery.php:21
+#: includes/widgets/widget-bordeaux-latest-posts.php:23
+#: includes/widgets/widget-bordeaux-social.php:27
+msgid "Title:"
+msgstr ""
+
+#: functions/drag-drop.php:23 functions/drag-drop.php:29
+#: functions/drag-drop.php:35 functions/drag-drop.php:45
+#: functions/drag-drop.php:65 includes/theme-config.php:1344
+#: includes/admin/slider.php:66 includes/admin/slider.php:118
+#: includes/admin/slider.php:170
+#: includes/widgets/widget-bordeaux-aweber.php:68
+msgid "Text:"
+msgstr ""
+
+#: functions/drag-drop.php:24 functions/drag-drop.php:30
+#: functions/drag-drop.php:36
+msgid "Read More URL:"
+msgstr ""
+
+#: functions/drag-drop.php:26
+msgid "Block 2:"
+msgstr ""
+
+#: functions/drag-drop.php:32
+msgid "Block 3:"
+msgstr ""
+
+#: functions/drag-drop.php:40
+msgid "Latest Menu Card/Shop Items"
+msgstr ""
+
+#: functions/drag-drop.php:44 functions/drag-drop.php:64
+msgid "Count:"
+msgstr ""
+
+#: functions/drag-drop.php:46 functions/drag-drop.php:66
+msgid "Sidebar:"
+msgstr ""
+
+#: functions/drag-drop.php:50 includes/theme-config.php:1335
+msgid "Type:"
+msgstr ""
+
+#: functions/drag-drop.php:60
+#: includes/widgets/widget-bordeaux-latest-posts.php:37
+msgid "Latest News"
+msgstr ""
+
+#: functions/drag-drop.php:81
+msgid "HTML Code:"
+msgstr ""
+
+#: functions/filters.php:176
+msgid "Nickname.."
+msgstr ""
+
+#: functions/filters.php:177
+msgid "E-mail.."
+msgstr ""
+
+#: functions/filters.php:178
+msgid "Website"
+msgstr ""
+
+#: functions/filters.php:178
+msgid "Website.."
+msgstr ""
+
+#: functions/filters.php:188
+msgid "Your e-mail address will not be published."
+msgstr ""
+
+#: functions/filters.php:188
+msgid "Required fields are marked"
+msgstr ""
+
+#: functions/filters.php:220
+msgid "by"
+msgstr ""
+
+#: functions/nav.php:100
+msgid "Previous"
+msgstr ""
+
+#: functions/other.php:93
+msgid "Last Update: "
+msgstr ""
+
+#: functions/other.php:93
+msgid "Updated"
+msgstr ""
+
+#: functions/other.php:814 functions/other.php:874
+msgid "Delete image"
+msgstr ""
+
+#: functions/other.php:814 functions/other.php:874
+#: functions/tax-meta-class/tax-meta-class.php:250
+#: functions/tax-meta-class/tax-meta-class.php:883
+#: includes/theme-config.php:1225 includes/theme-config.php:1520
+msgid "Delete"
+msgstr ""
+
+#: functions/other.php:825
+msgid "Add images"
+msgstr ""
+
+#: functions/other.php:851
+msgid "Add Images to Product Gallery"
+msgstr ""
+
+#: functions/other.php:853
+msgid "Add to gallery"
+msgstr ""
+
+#: functions/other.php:1180 functions/other.php:1186
+msgid "Something went wrong with the connection!"
+msgstr ""
+
+#: functions/other.php:1189
+msgid "This option doesn't work on localhost!"
+msgstr ""
+
+#: functions/other.php:1193
+msgid "Please set up your API key!"
+msgstr ""
+
+#: functions/other.php:1231
+msgid "Search Results for"
+msgstr ""
+
+#: functions/other.php:1239
+msgid "Posts From"
+msgstr ""
+
+#: functions/other.php:1242
+msgid "Tag"
+msgstr ""
+
+#: functions/other.php:1247
+msgid "Archive"
+msgstr ""
+
+#: functions/other.php:1741 functions/other.php:1766 functions/other.php:1777
+#: woocommerce/loop/add-to-cart.php:17 woocommerce/loop/add-to-cart.php:41
+#: woocommerce/loop/add-to-cart.php:50
+msgid "Read More"
+msgstr ""
+
+#: functions/other.php:1756 woocommerce/loop/add-to-cart.php:33
+msgid "Select options"
+msgstr ""
+
+#: functions/other.php:1761 woocommerce/loop/add-to-cart.php:37
+msgid "View options"
+msgstr ""
+
+#: functions/other.php:1772 woocommerce/loop/add-to-cart.php:46
+msgid "Add to cart"
+msgstr ""
+
+#: functions/other.php:1912 functions/other.php:1950
+#, php-format
+msgid " %1$s, %2$s"
+msgstr ""
+
+#: functions/other.php:1917
+msgid "Reply to this comment"
+msgstr ""
+
+#: functions/other.php:1954
+msgid "Author"
+msgstr ""
+
+#: functions/register.php:14 includes/top.php:100 includes/top.php:110
+msgid "Main Menu"
+msgstr ""
+
+#: functions/register.php:15
+msgid "Footer Menu"
+msgstr ""
+
+#: functions/register.php:26 functions/register.php:62
+msgid "Add New Item"
+msgstr ""
+
+#: functions/register.php:27 functions/register.php:63
+msgid "Edit Item"
+msgstr ""
+
+#: functions/register.php:28
+msgid "New Gallery Item"
+msgstr ""
+
+#: functions/register.php:29 functions/register.php:65
+msgid "View Item"
+msgstr ""
+
+#: functions/register.php:30
+msgid "Search Gallery Items"
+msgstr ""
+
+#: functions/register.php:31
+msgid "No gallery items found"
+msgstr ""
+
+#: functions/register.php:32
+msgid "No gallery items found in Trash"
+msgstr ""
+
+#: functions/register.php:59 functions/register.php:60
+msgid "Menu Card"
+msgstr ""
+
+#: functions/register.php:61
+msgid "Add New"
+msgstr ""
+
+#: functions/register.php:64
+msgid "Menu Card Item"
+msgstr ""
+
+#: functions/register.php:66
+msgid "Menu Card Items"
+msgstr ""
+
+#: functions/register.php:67
+msgid "No items found"
+msgstr ""
+
+#: functions/register.php:68
+msgid "No items found in Trash"
+msgstr ""
+
+#: functions/register.php:73 functions/register.php:75
+#: functions/register.php:76
+msgid "Menu Card Categories"
+msgstr ""
+
+#: functions/register.php:121
+msgid "The default page sidebar."
+msgstr ""
+
+#: functions/register.php:122
+msgid "Footer widget area, supports up to 3 widgets."
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:250
+msgid "Delete this image"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:357
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:583
+#: functions/tax-meta-class/tax-meta-class.php:630
+msgid "Remove"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:596
+msgid "Add"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:879
+msgid "Uploaded files"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:890
+msgid "Upload new files"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:896
+msgid "Add more files"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:948
+msgid "Select a color"
+msgstr ""
+
+#: includes/gallery-single-style-1.php:38
+#: includes/gallery-single-style-1.php:51 includes/_lightbox-gallery.php:17
+msgid "of"
+msgstr ""
+
+#: includes/menu-single.php:50 includes/news-single.php:50
+msgid "Pages:"
+msgstr ""
+
+#: includes/menu-single.php:55 includes/news-single.php:55
+msgid "Next page"
+msgstr ""
+
+#: includes/menu-single.php:56 includes/news-single.php:56
+msgid "Previous page"
+msgstr ""
+
+#: includes/theme-config.php:1199
+msgid "Nr."
+msgstr ""
+
+#: includes/theme-config.php:1201
+msgid "Added"
+msgstr ""
+
+#: includes/theme-config.php:1202
+msgid "Reservation Date"
+msgstr ""
+
+#: includes/theme-config.php:1204
+msgid "Option"
+msgstr ""
+
+#: includes/theme-config.php:1222
+msgid "View Single"
+msgstr ""
+
+#: includes/theme-config.php:1269
+msgid "Back"
+msgstr ""
+
+#: includes/theme-config.php:1272
+msgid "Full Entry"
+msgstr ""
+
+#: includes/theme-config.php:1275
+msgid "Reservation Page Name:"
+msgstr ""
+
+#: includes/theme-config.php:1279
+msgid "Reservation Create Date:"
+msgstr ""
+
+#: includes/theme-config.php:1281 includes/theme-config.php:1288
+msgid "Time:"
+msgstr ""
+
+#: includes/theme-config.php:1282 includes/theme-config.php:1289
+msgid "Date:"
+msgstr ""
+
+#: includes/theme-config.php:1297
+msgid "Phone Number:"
+msgstr ""
+
+#: includes/theme-config.php:1301
+msgid "Mail:"
+msgstr ""
+
+#: includes/theme-config.php:1309
+msgid "Notes:"
+msgstr ""
+
+#: includes/theme-config.php:1317
+msgid "Send a answer email"
+msgstr ""
+
+#: includes/theme-config.php:1322
+msgid ""
+"To approve or deny the reservation, for the form below and press \"Send & "
+"Approve\". The Customer will recieve that message in his e-mail."
+msgstr ""
+
+#: includes/theme-config.php:1323
+msgid "Orange Themes is not responsible if the e-mail goes in the Spam box."
+msgstr ""
+
+#: includes/theme-config.php:1328
+msgid "Your message was sent successfully!"
+msgstr ""
+
+#: includes/theme-config.php:1338
+msgid "Accept"
+msgstr ""
+
+#: includes/theme-config.php:1339
+msgid "Deny"
+msgstr ""
+
+#: includes/theme-config.php:1347
+msgid "Send Message"
+msgstr ""
+
+#: includes/theme-config.php:1460
+msgid "Sidebar name:"
+msgstr ""
+
+#: includes/theme-config.php:1518
+msgid "Free Date:"
+msgstr ""
+
+#: includes/theme-config.php:1519
+msgid "Edit"
+msgstr ""
+
+#: includes/top.php:65
+msgid "Star"
+msgstr ""
+
+#: includes/top.php:239 includes/widgets/widget-bordeaux-latest-posts.php:108
+#: includes/widgets/widget-bordeaux-triple-box.php:123
+#: includes/widgets/widget-bordeaux-triple-box.php:148
+msgid "No posts where found"
+msgstr ""
+
+#: includes/admin/general.php:6 includes/admin/general.php:18
+msgid "General"
+msgstr ""
+
+#: includes/admin/general.php:19
+msgid "Blog"
+msgstr ""
+
+#: includes/admin/general.php:20
+msgid "Gallery"
+msgstr ""
+
+#: includes/admin/general.php:21
+msgid "Shop/Menu Card"
+msgstr ""
+
+#: includes/admin/general.php:22
+msgid "Contact/Footer"
+msgstr ""
+
+#: includes/admin/general.php:23
+msgid "Banners"
+msgstr ""
+
+#: includes/admin/general.php:57
+msgid "Add logo image"
+msgstr ""
+
+#: includes/admin/general.php:62
+msgid "Add Header Logo Image"
+msgstr ""
+
+#: includes/admin/general.php:63
+msgid "Suggested image size is 573x132px"
+msgstr ""
+
+#: includes/admin/general.php:81
+msgid "Favicon"
+msgstr ""
+
+#: includes/admin/general.php:82
+msgid ""
+"Favicons are the small 16 pixel by 16 pixel pictures you see beside some "
+"URLs in your browser's address bar."
+msgstr ""
+
+#: includes/admin/general.php:186
+msgid "Post Settings"
+msgstr ""
+
+#: includes/admin/general.php:192
+msgid "Show post date:"
+msgstr ""
+
+#: includes/admin/general.php:198
+msgid "Show post comment:"
+msgstr ""
+
+#: includes/admin/general.php:203
+msgid "Show post author:"
+msgstr ""
+
+#: includes/admin/general.php:275
+msgid "Menu Card Currency"
+msgstr ""
+
+#: includes/admin/general.php:280
+msgid "Currency:"
+msgstr ""
+
+#: includes/admin/general.php:296
+msgid "Woocommerce Shop Items Per Page"
+msgstr ""
+
+#: includes/admin/general.php:301
+msgid "Items Per Page:"
+msgstr ""
+
+#: includes/admin/reservations.php:6
+msgid "Reservations"
+msgstr ""
+
+#: includes/admin/reservations.php:18
+msgid "Main"
+msgstr ""
+
+#: includes/admin/reservations.php:19
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/reservations.php:38
+msgid "All Entries"
+msgstr ""
+
+#: includes/admin/reservations.php:67
+msgid "Time Settings"
+msgstr ""
+
+#: includes/admin/reservations.php:72
+msgid "Time Format"
+msgstr ""
+
+#: includes/admin/reservations.php:75
+msgid "24 hour time"
+msgstr ""
+
+#: includes/admin/reservations.php:76
+msgid "12 hour time"
+msgstr ""
+
+#: includes/admin/reservations.php:91
+msgid "Work Time"
+msgstr ""
+
+#: includes/admin/reservations.php:99 includes/admin/reservations.php:133
+msgid "0:00"
+msgstr ""
+
+#: includes/admin/reservations.php:100 includes/admin/reservations.php:134
+msgid "1:00"
+msgstr ""
+
+#: includes/admin/reservations.php:101 includes/admin/reservations.php:135
+msgid "2:00"
+msgstr ""
+
+#: includes/admin/reservations.php:102 includes/admin/reservations.php:136
+msgid "3:00"
+msgstr ""
+
+#: includes/admin/reservations.php:103 includes/admin/reservations.php:137
+msgid "4:00"
+msgstr ""
+
+#: includes/admin/reservations.php:104 includes/admin/reservations.php:138
+msgid "5:00"
+msgstr ""
+
+#: includes/admin/reservations.php:105 includes/admin/reservations.php:139
+msgid "6:00"
+msgstr ""
+
+#: includes/admin/reservations.php:106 includes/admin/reservations.php:140
+msgid "7:00"
+msgstr ""
+
+#: includes/admin/reservations.php:107 includes/admin/reservations.php:141
+msgid "8:00"
+msgstr ""
+
+#: includes/admin/reservations.php:108 includes/admin/reservations.php:142
+msgid "9:00"
+msgstr ""
+
+#: includes/admin/reservations.php:109 includes/admin/reservations.php:143
+msgid "10:00"
+msgstr ""
+
+#: includes/admin/reservations.php:110 includes/admin/reservations.php:144
+msgid "11:00"
+msgstr ""
+
+#: includes/admin/reservations.php:111 includes/admin/reservations.php:145
+msgid "12:00"
+msgstr ""
+
+#: includes/admin/reservations.php:112 includes/admin/reservations.php:146
+msgid "13:00"
+msgstr ""
+
+#: includes/admin/reservations.php:113 includes/admin/reservations.php:147
+msgid "14:00"
+msgstr ""
+
+#: includes/admin/reservations.php:114 includes/admin/reservations.php:148
+msgid "15:00"
+msgstr ""
+
+#: includes/admin/reservations.php:115 includes/admin/reservations.php:149
+msgid "16:00"
+msgstr ""
+
+#: includes/admin/reservations.php:116 includes/admin/reservations.php:150
+msgid "17:00"
+msgstr ""
+
+#: includes/admin/reservations.php:117 includes/admin/reservations.php:151
+msgid "18:00"
+msgstr ""
+
+#: includes/admin/reservations.php:118 includes/admin/reservations.php:152
+msgid "19:00"
+msgstr ""
+
+#: includes/admin/reservations.php:119 includes/admin/reservations.php:153
+msgid "20:00"
+msgstr ""
+
+#: includes/admin/reservations.php:120 includes/admin/reservations.php:154
+msgid "21:00"
+msgstr ""
+
+#: includes/admin/reservations.php:121 includes/admin/reservations.php:155
+msgid "22:00"
+msgstr ""
+
+#: includes/admin/reservations.php:122 includes/admin/reservations.php:156
+msgid "23:00"
+msgstr ""
+
+#: includes/admin/reservations.php:123 includes/admin/reservations.php:157
+msgid "24:00"
+msgstr ""
+
+#: includes/admin/reservations.php:130
+msgid "Till"
+msgstr ""
+
+#: includes/admin/reservations.php:171
+msgid "Available table per day"
+msgstr ""
+
+#: includes/admin/reservations.php:176
+msgid "Max Table Count"
+msgstr ""
+
+#: includes/admin/reservations.php:179
+msgid "1"
+msgstr ""
+
+#: includes/admin/reservations.php:180
+msgid "2"
+msgstr ""
+
+#: includes/admin/reservations.php:181
+msgid "3"
+msgstr ""
+
+#: includes/admin/reservations.php:182
+msgid "4"
+msgstr ""
+
+#: includes/admin/reservations.php:183
+msgid "5"
+msgstr ""
+
+#: includes/admin/reservations.php:184
+msgid "6"
+msgstr ""
+
+#: includes/admin/reservations.php:185
+msgid "7"
+msgstr ""
+
+#: includes/admin/reservations.php:186
+msgid "8"
+msgstr ""
+
+#: includes/admin/reservations.php:187
+msgid "9"
+msgstr ""
+
+#: includes/admin/reservations.php:188
+msgid "10"
+msgstr ""
+
+#: includes/admin/reservations.php:189
+msgid "11"
+msgstr ""
+
+#: includes/admin/reservations.php:190
+msgid "12"
+msgstr ""
+
+#: includes/admin/reservations.php:191
+msgid "13"
+msgstr ""
+
+#: includes/admin/reservations.php:192
+msgid "14"
+msgstr ""
+
+#: includes/admin/reservations.php:193
+msgid "15"
+msgstr ""
+
+#: includes/admin/reservations.php:194
+msgid "16"
+msgstr ""
+
+#: includes/admin/reservations.php:195
+msgid "17"
+msgstr ""
+
+#: includes/admin/reservations.php:196
+msgid "18"
+msgstr ""
+
+#: includes/admin/reservations.php:197
+msgid "19"
+msgstr ""
+
+#: includes/admin/reservations.php:198
+msgid "20"
+msgstr ""
+
+#: includes/admin/reservations.php:199
+msgid "21"
+msgstr ""
+
+#: includes/admin/reservations.php:200
+msgid "22"
+msgstr ""
+
+#: includes/admin/reservations.php:201
+msgid "23"
+msgstr ""
+
+#: includes/admin/reservations.php:202
+msgid "24"
+msgstr ""
+
+#: includes/admin/reservations.php:203
+msgid "25"
+msgstr ""
+
+#: includes/admin/reservations.php:204
+msgid "26"
+msgstr ""
+
+#: includes/admin/reservations.php:205
+msgid "27"
+msgstr ""
+
+#: includes/admin/reservations.php:206
+msgid "28"
+msgstr ""
+
+#: includes/admin/reservations.php:207
+msgid "29"
+msgstr ""
+
+#: includes/admin/reservations.php:208
+msgid "30"
+msgstr ""
+
+#: includes/admin/reservations.php:209
+msgid "31"
+msgstr ""
+
+#: includes/admin/reservations.php:210
+msgid "32"
+msgstr ""
+
+#: includes/admin/reservations.php:211
+msgid "33"
+msgstr ""
+
+#: includes/admin/reservations.php:212
+msgid "34"
+msgstr ""
+
+#: includes/admin/reservations.php:213
+msgid "35"
+msgstr ""
+
+#: includes/admin/reservations.php:214
+msgid "36"
+msgstr ""
+
+#: includes/admin/reservations.php:215
+msgid "37"
+msgstr ""
+
+#: includes/admin/reservations.php:216
+msgid "38"
+msgstr ""
+
+#: includes/admin/reservations.php:217
+msgid "39"
+msgstr ""
+
+#: includes/admin/reservations.php:218
+msgid "40"
+msgstr ""
+
+#: includes/admin/reservations.php:219
+msgid "41"
+msgstr ""
+
+#: includes/admin/reservations.php:220
+msgid "42"
+msgstr ""
+
+#: includes/admin/reservations.php:221
+msgid "43"
+msgstr ""
+
+#: includes/admin/reservations.php:222
+msgid "44"
+msgstr ""
+
+#: includes/admin/reservations.php:223
+msgid "45"
+msgstr ""
+
+#: includes/admin/reservations.php:224
+msgid "46"
+msgstr ""
+
+#: includes/admin/reservations.php:225
+msgid "47"
+msgstr ""
+
+#: includes/admin/reservations.php:226
+msgid "48"
+msgstr ""
+
+#: includes/admin/reservations.php:227
+msgid "49"
+msgstr ""
+
+#: includes/admin/reservations.php:228
+msgid "50"
+msgstr ""
+
+#: includes/admin/reservations.php:242
+msgid "Reservation Support Mail"
+msgstr ""
+
+#: includes/admin/reservations.php:248
+msgid ""
+"Enable Email Notifications About New Reservations, Email will be sent to "
+"email that you setted in the reservation page."
+msgstr ""
+
+#: includes/admin/reservations.php:262
+msgid "Set Weekly Free Days"
+msgstr ""
+
+#: includes/admin/reservations.php:267
+msgid "Monday"
+msgstr ""
+
+#: includes/admin/reservations.php:272
+msgid "Tuesday"
+msgstr ""
+
+#: includes/admin/reservations.php:277
+msgid "Wednesday"
+msgstr ""
+
+#: includes/admin/reservations.php:282
+msgid "Thursday"
+msgstr ""
+
+#: includes/admin/reservations.php:287
+msgid "Friday"
+msgstr ""
+
+#: includes/admin/reservations.php:293
+msgid "Saturday"
+msgstr ""
+
+#: includes/admin/reservations.php:299
+msgid "Sunday"
+msgstr ""
+
+#: includes/admin/reservations.php:305
+msgid "Set a Full Day"
+msgstr ""
+
+#: includes/admin/reservations.php:319
+msgid "Full Day's"
+msgstr ""
+
+#: includes/admin/slider.php:6
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/admin/slider.php:18 includes/admin/slider.php:38
+msgid "Feedback Slider"
+msgstr ""
+
+#: includes/admin/slider.php:19
+msgid "Menu Card/Shop Item Slider"
+msgstr ""
+
+#: includes/admin/slider.php:49
+msgid "Block 1"
+msgstr ""
+
+#: includes/admin/slider.php:57 includes/admin/slider.php:109
+#: includes/admin/slider.php:161
+msgid "Author Name:"
+msgstr ""
+
+#: includes/admin/slider.php:76 includes/admin/slider.php:128
+#: includes/admin/slider.php:180
+msgid "The suggested image size is - 470x144px"
+msgstr ""
+
+#: includes/admin/slider.php:83 includes/admin/slider.php:135
+#: includes/admin/slider.php:187
+msgid "Rating:"
+msgstr ""
+
+#: includes/admin/slider.php:86 includes/admin/slider.php:138
+#: includes/admin/slider.php:190
+msgid "None"
+msgstr ""
+
+#: includes/admin/slider.php:87 includes/admin/slider.php:139
+#: includes/admin/slider.php:191
+msgid "1 Star"
+msgstr ""
+
+#: includes/admin/slider.php:88 includes/admin/slider.php:140
+#: includes/admin/slider.php:192
+msgid "2 Stars"
+msgstr ""
+
+#: includes/admin/slider.php:89 includes/admin/slider.php:141
+#: includes/admin/slider.php:193
+msgid "3 Stars"
+msgstr ""
+
+#: includes/admin/slider.php:90 includes/admin/slider.php:142
+#: includes/admin/slider.php:194
+msgid "4 Stars"
+msgstr ""
+
+#: includes/admin/slider.php:91 includes/admin/slider.php:143
+#: includes/admin/slider.php:195
+msgid "5 Stars"
+msgstr ""
+
+#: includes/admin/slider.php:101
+msgid "Block 2"
+msgstr ""
+
+#: includes/admin/slider.php:153
+msgid "Block 3"
+msgstr ""
+
+#: includes/admin/slider.php:230
+msgid "Show Image Tooltip on hover"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:148
+#: includes/lib/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:149
+#: includes/lib/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:150
+#: includes/lib/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:151
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/admin/functions/default-values.php:162
+#: includes/lib/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:163
+#: includes/lib/class-tgm-plugin-activation.php:171
+#: includes/lib/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/admin/functions/default-values.php:164
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/admin/functions/general.php:180
+msgid "Category Order"
+msgstr ""
+
+#: includes/home-blocks/block-1.php:25 includes/home-blocks/block-1.php:28
+#: includes/home-blocks/block-1.php:30
+msgid "show menu card"
+msgstr ""
+
+#: includes/home-blocks/block-1.php:32 includes/home-blocks/block-1.php:34
+msgid "view all"
+msgstr ""
+
+#: includes/home-blocks/block-1.php:88
+msgid "Show entire menu card"
+msgstr ""
+
+#: includes/home-blocks/homepage-info.php:20 includes/loop/post.php:63
+#: includes/widgets/widget-bordeaux-latest-posts.php:104
+#: includes/widgets/widget-bordeaux-triple-box.php:119
+#: includes/widgets/widget-bordeaux-triple-box.php:144
+msgid "Read more"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#: includes/lib/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#: includes/lib/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/loop/no-post.php:16
+msgid "No Articles Found"
+msgstr ""
+
+#: includes/loop/no-post.php:17
+#, php-format
+msgid ""
+"Sorry, there are no articles here ! <br/>You can <a href=\"%1$s\">contact "
+"us</a> to resolve this problem !"
+msgstr ""
+
+#: includes/loop/no-post.php:18
+#, php-format
+msgid "Or You can still <a href=\"%1$s\">go back to Homepage</a> !"
+msgstr ""
+
+#: includes/shortcodes/directions.php:9
+msgid "Directions"
+msgstr ""
+
+#: includes/shortcodes/gallery-box.php:22
+msgid "Photo gallery:"
+msgstr ""
+
+#: includes/shortcodes/gallery-box.php:37
+msgid "show<br/>all<br/>photos"
+msgstr ""
+
+#: includes/shortcodes/ingredients.php:12
+msgid "Ingredients"
+msgstr ""
+
+#: includes/single/page-title.php:11
+msgid "show all Photo galleries"
+msgstr ""
+
+#: includes/single/page-title.php:24
+msgid "check &amp; order your Reservation"
+msgstr ""
+
+#: includes/single/share.php:13
+msgid "Facebook"
+msgstr ""
+
+#: includes/single/share.php:18
+msgid "Twitter"
+msgstr ""
+
+#: includes/single/share.php:23
+msgid "Google+"
+msgstr ""
+
+#: includes/single/share.php:28
+msgid "Pinterest"
+msgstr ""
+
+#: includes/single/share.php:33
+msgid "Linkedin"
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:35
+msgid ""
+"A widget that allows the display and configuration of of a single 250x250 "
+"Banner."
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:41
+msgid " Custom 250x250 Ad"
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:120
+msgid "Ad image url:"
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:126
+msgid "Ad link url:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-aweber.php:70
+msgid "Click here to get your authorization code."
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-aweber.php:71
+msgid "<strong>Step 2:</strong>\tPaste in your authorization code:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-aweber.php:79
+msgid "Select the list you'd like people to subscribe to:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-aweber.php:81
+msgid "Select A List"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-aweber.php:88
+msgid ""
+"This AWeber account does not currently have any lists or your authorization "
+"code is incorrect!"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-aweber.php:154
+msgid "Everything went well, You are now subscribed !"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-aweber.php:158
+msgid "Error Occurred!"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-aweber.php:163
+msgid "Loading!"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-aweber.php:164
+msgid "This may take a few seconds !"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-aweber.php:182
+msgid "Subscribe"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-aweber.php:188
+msgid "There is no list selected."
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-contact.php:27
+#: includes/widgets/widget-bordeaux-map.php:25
+#: includes/widgets/widget-bordeaux-triple-box.php:29
+msgid "Widget Title:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-contact.php:28
+msgid "Restaurant Name:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-contact.php:29
+msgid "Address:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-gallery.php:22
+msgid "Galleries shown:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-latest-posts.php:24
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-latest-posts.php:44
+msgid "Post count:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-map.php:26
+msgid "Google map URL:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-map.php:53
+msgid "View Full Map"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-social.php:28
+msgid "Twitter account URL:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-social.php:29
+msgid "Facebook account URL:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-social.php:30
+msgid "LinkedIn account URL:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-social.php:31
+msgid "RSS URL:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-social.php:67
+msgid "Follow us on <b>Twitter</b>"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-social.php:70
+msgid "Friend us on <b>Facebook</b>"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-social.php:73
+msgid "Check us out on <b>Linked In</b>"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-social.php:76
+msgid "Check out our <b>RSS feeds</b>"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-triple-box.php:9
+msgid "Populat posts, latest comments and recent news widget."
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-triple-box.php:32
+msgid "Populat Post count:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-triple-box.php:33
+msgid "Recent Post count:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-triple-box.php:34
+msgid "Comment count:"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-triple-box.php:98
+msgid "Popular"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-triple-box.php:99
+msgid "Recent"
+msgstr ""
+
+#: includes/widgets/widget-bordeaux-triple-box.php:173
+msgid "View article"
+msgstr ""
+
+#: js/calendar.php:48
+msgid "January"
+msgstr ""
+
+#: js/calendar.php:48
+msgid "February"
+msgstr ""
+
+#: js/calendar.php:48
+msgid "March"
+msgstr ""
+
+#: js/calendar.php:48
+msgid "April"
+msgstr ""
+
+#: js/calendar.php:48
+msgid "May"
+msgstr ""
+
+#: js/calendar.php:48
+msgid "June"
+msgstr ""
+
+#: js/calendar.php:48
+msgid "July"
+msgstr ""
+
+#: js/calendar.php:48
+msgid "August"
+msgstr ""
+
+#: js/calendar.php:48
+msgid "September"
+msgstr ""
+
+#: js/calendar.php:48
+msgid "October"
+msgstr ""
+
+#: js/calendar.php:48
+msgid "November"
+msgstr ""
+
+#: js/calendar.php:48
+msgid "December"
+msgstr ""
+
+#: js/calendar.php:215
+msgid "Mo"
+msgstr ""
+
+#: js/calendar.php:215
+msgid "Tu"
+msgstr ""
+
+#: js/calendar.php:215
+msgid "We"
+msgstr ""
+
+#: js/calendar.php:215
+msgid "Th"
+msgstr ""
+
+#: js/calendar.php:215
+msgid "Fr"
+msgstr ""
+
+#: js/calendar.php:215
+msgid "Sa"
+msgstr ""
+
+#: js/calendar.php:215
+msgid "Su"
+msgstr ""
+
+#: js/calendar.php:298
+msgid "Free reservation space"
+msgstr ""
+
+#: js/calendar.php:299
+msgid "We are closed"
+msgstr ""
+
+#: js/calendar.php:300
+msgid "Some reservations available"
+msgstr ""
+
+#: js/calendar.php:301
+msgid "Reservations not available"
+msgstr ""
+
+#: js/calendar.php:302
+msgid "Days that already has passed by"
+msgstr ""
+
+#: js/calendar.php:303
+msgid "Current day"
+msgstr ""
+
+#: js/calendar.php:322
+msgid "This day is not available!"
+msgstr ""
+
+#: js/scripts.php:13 js/scripts.php:54
+msgid "You didn't enter Your First Name."
+msgstr ""
+
+#: js/scripts.php:15 js/scripts.php:56
+msgid "First Name is the wrong length."
+msgstr ""
+
+#: js/scripts.php:26 js/scripts.php:67
+msgid "You didn't enter an email address."
+msgstr ""
+
+#: js/scripts.php:28 js/scripts.php:69
+msgid "The email address contains illegal characters."
+msgstr ""
+
+#: js/scripts.php:41 js/scripts.php:81
+msgid "You didn't enter Your message."
+msgstr ""
+
+#: js/scripts.php:43 js/scripts.php:83
+msgid "The message is to short."
+msgstr ""
+
+#: js/scripts.php:94
+msgid "You didn't select a date."
+msgstr ""
+
+#: js/scripts.php:105
+msgid "You didn't select reservation time."
+msgstr ""
+
+#: js/scripts.php:113
+msgid "Please select at least one checkbox!"
+msgstr ""
