@@ -78,7 +78,7 @@
 				<!-- BEGIN .wrapper -->
 				<div class="wrapper">
 
-					<p class="right"><?php _e("Designed by", THEME_NAME);?> <a href="http://orange-themes.com" target="_blank">Orange-Themes</a></p>
+					<p class="right"><?php _e("Thiết kế web bởi", THEME_NAME);?> <a href="http://webdep360.com" target="_blank">Thiết kế web đẹp</a></p>
 					<p><?php echo stripslashes($copyRight);?></p>
 
 				<!-- END .wrapper -->
